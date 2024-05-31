@@ -1,0 +1,7 @@
+{
+  "name": "Watch Movies",
+  "short_name": "Watch Movies",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000"
+}
